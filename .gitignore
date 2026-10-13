@@ -1,0 +1,12 @@
+/build/
+/live_server*
+/out/
+/.vs/
+*.log
+*.env
+*.pem
+*.key
+*.p12
+/DEPLOYMENT_NOTES.md
+/deploy/
+/更新网站.cmd
